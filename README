@@ -1,0 +1,15 @@
+## Project Title
+
+the project called app-meditation
+
+## PROJECT DESCRIPTION
+
+This app can help you meditation. There is three meditation music with a video. Nature, waves, rain. I did not do specific interface. I focused for JavaScript code. It was some problems with playing music on Apple iphones but I added button "play" for screen less that 500px and music plays with no problem. When timer on 5 minutes comes to zero, music will automaticly stops
+
+## HOW TO USE THE PROJECT
+
+If you use app from laptop just choose meditatuon you like and press the button there is a timer for 5 minutes with music. If you use smartphone press the button and music will start play
+
+## ADD LICENSE
+
+If anyone wants you can use this code
